@@ -129,7 +129,7 @@ section {
 
 main {
     display: flex;
-    gap: 99px;
+    gap: -30px;
     background-color: black;
     height: 520px;
 }
@@ -139,9 +139,9 @@ main {
     background-color: rgb(122, 115, 115);
     text-align: center;
     color: bwhite;
-    height: 294px;
-    width: 268px;
-    margin: 84px;
+    height: 354px;
+    width: 375px;
+    margin: 68px;
     border-radius: 8px;
     font-size: 17px;
     box-shadow: 0px -1px 16px white;
@@ -150,7 +150,7 @@ main {
 .box9 p {
     font-family: 'Dancing Script', cursive;
     font-weight: 900;
-    font-size: 23px;
+    font-size: 31px;
     text-shadow: 0px 0px 8px white;
     color: rgb(8, 8, 8);
     font-family: 'Dancing Script', cursive;
@@ -158,7 +158,7 @@ main {
 
 .box9 h2 {
     font-family: 'Heebo', sans-serif;
-    font-size: 28px;
+    font-size: 33px;
     /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
 }
 
